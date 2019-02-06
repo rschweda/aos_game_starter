@@ -1,0 +1,1 @@
+Simple GameActivity for Android based on this tutorial: http://gamecodeschool.com/android/building-a-simple-game-engine/
